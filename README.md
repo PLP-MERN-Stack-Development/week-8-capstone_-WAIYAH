@@ -1,4 +1,4 @@
-# 🏥 FirstAidGuru – First Aid Tutorial Web Application (MERN Stack)
+# 🏥 FirstAidGuru – First Aid Tutorial Web Application (MERN Stack) link: https://week8-final.vercel.app/
 
 A comprehensive, responsive, and accessible web application built with the **MERN stack** (MongoDB, Express, React, Node.js) that educates users on **life-saving first aid techniques**. Designed to empower communities, especially in underserved areas, with quick, step-by-step emergency guidance.
 
